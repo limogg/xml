@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+    <dane>
+        <login>
+            nochet
+        </login>
+        <e-mail>
+            example@example.com
+        </e-mail>
+        <strona-internetowa>
+            https://nochet.xyz/
+        </strona-internetowa>
+</dane>
+<rozdziały>
+    <pierwszy>
+        Pierwszy kod xml. Zobaczymy o co chodzi i jak to działa.
+    </pierwszy>
+    <rodział-1>
+        Rozdizł pierwszy.
+        <podrozdział-1>
+            Podrozdział pierwszy.
+        </podrozdział-1>
+        <podrozdział-2>
+             Podrozdział drugi.
+            <podpodrozdizał-1>
+                podpodrozdizał pierwszy.
+            </podpodrozdizał-1>
+        </podrozdział-2>
+    </rodział-1>
+</rozdziały>
+</main>
